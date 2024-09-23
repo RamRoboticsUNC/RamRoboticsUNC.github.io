@@ -1,3 +1,10 @@
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: default
+---
+
 # Welcome to Ram Robotics
 
 
@@ -14,3 +21,4 @@ Here is our robot
 
 Below is documentation about the construction and testing of the robot
 
+[Go to Documentation](./another-page.html).
