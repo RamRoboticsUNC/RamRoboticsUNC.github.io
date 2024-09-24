@@ -34,6 +34,7 @@ To link to a page called `new-page.md`, add a link in this format to the markdow
 [Link to another page](./new-page.html).
 ```
 
+More instructions on [Adding a new page](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/adding-content-to-your-github-pages-site-using-jekyll#adding-a-new-page-to-your-site)
 
 
 ## How to add images:
@@ -43,3 +44,11 @@ Upload your file to `assets/img`. Use the new image in your page with the follow
 ![Alt text for your image](/assets/img/your-image.jpg)
 
 ```
+
+## New Github Page from a theme
+
+If you want to start from scratch and build the website from a new theme, follow these instructions [Create new site from scratch](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site)
+
+## Consider the limitations of github pages
+
+Read the [usage limits](https://docs.github.com/en/pages/getting-started-with-github-pages/about-github-pages#usage-limits) on github pages.
