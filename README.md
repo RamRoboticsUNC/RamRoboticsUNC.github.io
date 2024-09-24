@@ -19,6 +19,7 @@ Make sure you have tested your changes to the website in your `feature-branch`. 
 ## How to create pages:
 
 Website pages correspond to `.md` files in the root folder of the project. The `index.md` page is special because it will be shown when a user opens [https://ramroboticsunc.github.io/](https://ramroboticsunc.github.io/). Any new `.md` files that follow the website header
+
 ```
 ---
 layout: default
